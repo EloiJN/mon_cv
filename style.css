@@ -101,7 +101,10 @@ body{
     margin: 10px 0;
     cursor: pointer;
 }
-
+.contactInfo ul li span a{
+    color: #fff;
+    text-decoration: none;
+}
 .contactInfo ul li .icon{
     display: inline-block;
     width: 30px;
@@ -219,4 +222,8 @@ p{
     left: 0;
     height: 100%;
     background: #03a9f4;
+}
+
+.education ul li{
+    list-style: none;
 }
